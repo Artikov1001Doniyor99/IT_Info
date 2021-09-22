@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".AddPhoneActivity"
+    android:paddingStart="20dp"
+    android:paddingEnd="20dp"
+    >
+
+    <EditText
+        android:id="@+id/edit_phone_name"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/edit_features"
+        android:gravity="start"
+        android:hint="Phone name"
+        android:background="@drawable/edit_fon"
+        app:layout_constraintHeight_percent="0.1"
+        android:layout_marginTop="20dp"
+        android:padding="20dp"
+        />
+
+    <EditText
+        android:id="@+id/edit_features"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:gravity="start"
+        android:padding="20dp"
+        app:layout_constraintTop_toBottomOf="@id/edit_phone_name"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/btn_add"
+        android:layout_marginTop="20dp"
+        app:layout_constraintHeight_percent="0.6"
+        android:background="@drawable/edit_fon"
+        android:hint="Phone features"
+        />
+
+    <Button
+        android:id="@+id/btn_save"
+        android:text="Add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/edit_features"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:padding="10dp"
+        android:textColor="@color/black"
+        app:layout_constraintHorizontal_bias="1"
+        android:backgroundTint="@color/yellow"
+        />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
