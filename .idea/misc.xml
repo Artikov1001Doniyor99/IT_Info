@@ -3,11 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/PDP_LESSONS/Modul_5_1_lesson_1/app/src/main/res/layout/activity_main.xml" value="0.1921875" />
-        <entry key="..\:/PDP_LESSONS/Modul_5_1_lesson_1/app/src/main/res/layout/activity_second.xml" value="0.1921875" />
-        <entry key="..\:/PDP_LESSONS/Modul_5_1_lesson_1/app/src/main/res/layout/item.xml" value="0.1921875" />
-        <entry key="..\:/PDP_LESSONS/Modul_5_1_lesson_1/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2125" />
-        <entry key="..\:/PDP_LESSONS/Modul_5_1_lesson_1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1527777777777778" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_1_lesson_4/app/src/main/res/drawable/edit_fon.xml" value="0.1527777777777778" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_1_lesson_4/app/src/main/res/layout/activity_add_phone.xml" value="0.22" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_1_lesson_4/app/src/main/res/layout/activity_info.xml" value="0.1921875" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_1_lesson_4/app/src/main/res/layout/activity_main.xml" value="0.1921875" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_1_lesson_4/app/src/main/res/layout/activity_menu_grid.xml" value="0.1921875" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_1_lesson_4/app/src/main/res/layout/activity_phone_list.xml" value="0.1921875" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_1_lesson_4/app/src/main/res/layout/item.xml" value="0.1921875" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_1_lesson_4/app/src/main/res/layout/item_phone_list.xml" value="0.1921875" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_1_lesson_4/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14722222222222223" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_1_lesson_4/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.14722222222222223" />
       </map>
     </option>
   </component>
